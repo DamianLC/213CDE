@@ -1,2 +1,2 @@
 # 213CDE
-Game demo for uni module 213CDE
+Branch the master repository for all the photoshop work for 213CDE.
